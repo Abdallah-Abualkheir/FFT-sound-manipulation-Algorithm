@@ -1,0 +1,8 @@
+bin/*
+.vscode/*
+*.exe
+*.json
+
+# Added by cargo
+
+/target
